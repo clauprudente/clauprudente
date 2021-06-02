@@ -10,7 +10,7 @@
 </div>
   </a>
 
-### Find me elsewhere
+### Find me
 💼 <a href="https://www.linkedin.com/in/claudiampsantos/" target="_blank">LinkedIn</a>
 
 ### My technology Stack 👩‍💻
