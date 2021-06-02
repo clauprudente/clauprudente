@@ -1,4 +1,4 @@
-## Hello, I'm Cláudia 👋
+### Hello, I'm Cláudia 👋
 
 👩‍💻 I'm currently working on ClearSale as a Front-end developer and UX/UI designer. <br>
 🌱 Learning Javascript and their frameworks
@@ -7,13 +7,13 @@
   <a href="https://github.com/clauprudente">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clauprudente&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clauprudente&layout=compact&langs_count=16&theme=material-palenight"/>
-<div>
+</div>
   </a>
 
-    ## Find me elsewhere
+### Find me elsewhere
 💼 <a href="https://www.linkedin.com/in/claudiampsantos/" target="_blank">LinkedIn</a>
 
-## My technology Stack 👩‍💻
+### My technology Stack 👩‍💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Claudia=Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Claudia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
