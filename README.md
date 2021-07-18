@@ -1,6 +1,6 @@
 ### Hello, I'm Cláudia 👋
 
-💼 I'm currently working as a Front-end developer and UX/UI designer at ClearSale. <br>
+💼 I'm currently working as a Front-end developer and UI designer at ClearSale. <br>
 💪 Learning Javascript and their frameworks </br>
 🏠 Based in São Paulo - BR </br>
 👩 Pronouns: She|Her|Ela
